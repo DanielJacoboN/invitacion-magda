@@ -66,6 +66,35 @@ export default function InvitacionMagda() {
 
           <div className="w-24 h-[1px] bg-amber-200 mx-auto mb-8" />
 
+	<p className="text-lg md:text-xl text-amber-50 leading-relaxed mb-8">
+	  Te invito a celebrar con mucho gusto mi cumpleaños este próximo
+	  <span className="font-semibold"> 1 de Agosto</span>.
+	  <br />
+	  Tu presencia hará de este día algo especial ✨
+	</p>
+
+	<div className="bg-white/10 border border-white/20 rounded-3xl p-6 mb-10 backdrop-blur-sm">
+	  <p className="uppercase tracking-[0.3em] text-sm text-amber-100 mb-3">
+	    Misa de Acción de Gracias
+	  </p>
+
+	  <p className="text-xl text-amber-50 mb-2">
+	    Parroquia María Auxiliadora Ramos Millán
+	  </p>
+
+	  <p className="text-amber-100 mb-5">
+	    1:00 PM
+	  </p>
+
+	  <a
+	    href="https://maps.app.goo.gl/BBi4fdsTaJgJHZar7"
+	    target="_blank"
+	    className="inline-block px-6 py-3 rounded-full bg-white/20 hover:bg-white/30 transition-all duration-300 border border-white/30"
+	  >
+	    Ver ubicación de la misa
+	  </a>
+	</div>
+
           <p className="text-xl md:text-2xl text-amber-50 leading-relaxed mb-3">
             1 de Agosto · 3:00 PM
           </p>
