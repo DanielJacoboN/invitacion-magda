@@ -149,7 +149,7 @@ const toggleMusica = () => {
 	  </p>
 
 	  <p className="text-amber-100 mb-5">
-	    1:00 PM
+	    12:30 PM
 	  </p>
 
 	  <a
