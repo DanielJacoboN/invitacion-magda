@@ -46,7 +46,7 @@ const [iniciada, setIniciada] = React.useState(false);
       'Hola, confirmo mi asistencia al cumpleaños de Magda ✨'
     );
 
-    window.open(`https://wa.me/525515321027?text=${mensaje}`, '_blank');
+    window.open(`https://wa.me/525546497773?text=${mensaje}`, '_blank');
   };
 const iniciarExperiencia = () => {
   const audio = audioRef.current;
